@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="946" height="640" viewBox="0 0 946 640" font-family="Consolas, 'Courier New', Menlo, monospace" font-size="15px">
+<title>Razzan Indrana - profile card (Photoshop UI)</title>
+<defs>
+<clipPath id="win"><rect x="20" y="20" width="906" height="600" rx="10"/></clipPath>
+<clipPath id="docclip"><rect x="84" y="158" width="584" height="416"/></clipPath>
+<linearGradient id="navy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#120e27"/><stop offset="0.55" stop-color="#00193c"/><stop offset="1" stop-color="#322240"/></linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31a8ff"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#c792ea"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/></pattern>
+<pattern id="checker" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#bdbdbd"/><rect x="6" y="6" width="6" height="6" fill="#bdbdbd"/><rect x="6" width="6" height="6" fill="#e6e6e6"/><rect y="6" width="6" height="6" fill="#e6e6e6"/></pattern>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/></filter>
+<clipPath id="l0"><rect x="124" y="193" width="152" height="22"><animate attributeName="width" values="0;0;152" keyTimes="0;0.6429;1" dur="1.400s" fill="freeze"/></rect></clipPath>
+<clipPath id="l1"><rect x="124" y="215" width="234" height="22"><animate attributeName="width" values="0;0;234" keyTimes="0;0.6691;1" dur="2.361s" fill="freeze"/></rect></clipPath>
+<clipPath id="l2"><rect x="124" y="237" width="326" height="22"><animate attributeName="width" values="0;0;326" keyTimes="0;0.6991;1" dur="3.635s" fill="freeze"/></rect></clipPath>
+<clipPath id="l3"><rect x="124" y="259" width="308" height="22"><animate attributeName="width" values="0;0;308" keyTimes="0;0.7872;1" dur="4.846s" fill="freeze"/></rect></clipPath>
+<clipPath id="l4"><rect x="124" y="281" width="372" height="22"><animate attributeName="width" values="0;0;372" keyTimes="0;0.8008;1" dur="6.276s" fill="freeze"/></rect></clipPath>
+<clipPath id="l5"><rect x="124" y="303" width="501" height="22"><animate attributeName="width" values="0;0;501" keyTimes="0;0.7928;1" dur="8.144s" fill="freeze"/></rect></clipPath>
+<clipPath id="l6"><rect x="124" y="325" width="529" height="22"><animate attributeName="width" values="0;0;529" keyTimes="0;0.8237;1" dur="10.105s" fill="freeze"/></rect></clipPath>
+<clipPath id="l7"><rect x="124" y="347" width="428" height="22"><animate attributeName="width" values="0;0;428" keyTimes="0;0.8774;1" dur="11.723s" fill="freeze"/></rect></clipPath>
+<clipPath id="l8"><rect x="124" y="369" width="207" height="22"><animate attributeName="width" values="0;0;207" keyTimes="0;0.9454;1" dur="12.590s" fill="freeze"/></rect></clipPath>
+<clipPath id="l9"><rect x="124" y="391" width="363" height="22"><animate attributeName="width" values="0;0;363" keyTimes="0;0.9129;1" dur="13.989s" fill="freeze"/></rect></clipPath>
+<clipPath id="l10"><rect x="124" y="413" width="234" height="22"><animate attributeName="width" values="0;0;234" keyTimes="0;0.9477;1" dur="14.950s" fill="freeze"/></rect></clipPath>
+<clipPath id="l11"><rect x="124" y="435" width="23" height="22"><animate attributeName="width" values="0;0;23" keyTimes="0;0.9959;1" dur="15.192s" fill="freeze"/></rect></clipPath>
+</defs>
+
+<!-- window shadow + frame -->
+<rect x="20" y="20" width="906" height="600" rx="10" fill="#1c1c1c" filter="url(#shadow)"/>
+<rect x="20" y="20" width="906" height="600" rx="10" fill="none" stroke="url(#border)" stroke-opacity="0.6"/>
+
+<g clip-path="url(#win)">
+<!-- title bar -->
+<rect x="20" y="20" width="906" height="34" fill="#262626"/>
+<rect x="30" y="27" width="20" height="20" rx="4" fill="#001e36"/>
+<text x="40" y="42" text-anchor="middle" fill="#31a8ff" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Ps</text>
+<text x="473" y="42" text-anchor="middle" fill="#8f8f8f" font-size="12" font-family="Segoe UI, Arial, sans-serif">Adobe Photoshop 2025 — razzan-indrana.psd</text>
+<circle cx="864" cy="37" r="5" fill="#5a5a5a"/><circle cx="884" cy="37" r="5" fill="#5a5a5a"/><circle cx="904" cy="37" r="5" fill="#e06c75"/>
+
+<!-- menu bar -->
+<rect x="20" y="54" width="906" height="24" fill="#323232"/>
+<text x="74" y="70" fill="#d6d6d6" font-size="12">File</text><text x="118.8" y="70" fill="#d6d6d6" font-size="12">Edit</text><text x="163.6" y="70" fill="#d6d6d6" font-size="12">Image</text><text x="215.6" y="70" fill="#d6d6d6" font-size="12">Layer</text><text x="267.6" y="70" fill="#d6d6d6" font-size="12">Type</text><text x="312.40000000000003" y="70" fill="#d6d6d6" font-size="12">Select</text><text x="371.6" y="70" fill="#d6d6d6" font-size="12">Filter</text><text x="430.8" y="70" fill="#d6d6d6" font-size="12">3D</text><text x="461.2" y="70" fill="#d6d6d6" font-size="12">View</text><text x="506" y="70" fill="#d6d6d6" font-size="12">Plugins</text><text x="572.4" y="70" fill="#d6d6d6" font-size="12">Window</text><text x="631.6" y="70" fill="#d6d6d6" font-size="12">Help</text>
+<line x1="20" y1="78" x2="926" y2="78" stroke="#1a1a1a"/>
+
+<!-- options bar (Type tool) -->
+<rect x="20" y="78" width="906" height="30" fill="#323232"/>
+<text x="34" y="98" fill="#31a8ff" font-size="15" font-family="Segoe UI, Arial, sans-serif" font-weight="700">T</text>
+<rect x="60" y="84" width="120" height="18" rx="3" fill="#262626" stroke="#3c3c3c"/><text x="68" y="97" fill="#d6d6d6" font-size="11" font-family="Segoe UI, Arial, sans-serif">IBM Plex Mono</text>
+<rect x="188" y="84" width="70" height="18" rx="3" fill="#262626" stroke="#3c3c3c"/><text x="196" y="97" fill="#d6d6d6" font-size="11" font-family="Segoe UI, Arial, sans-serif">Regular</text>
+<rect x="266" y="84" width="60" height="18" rx="3" fill="#262626" stroke="#3c3c3c"/><text x="274" y="97" fill="#d6d6d6" font-size="11" font-family="Segoe UI, Arial, sans-serif">15 pt</text>
+<rect x="334" y="84" width="60" height="18" rx="3" fill="#262626" stroke="#3c3c3c"/><text x="342" y="97" fill="#d6d6d6" font-size="11" font-family="Segoe UI, Arial, sans-serif">Sharp</text>
+<rect x="402" y="85" width="16" height="16" rx="2" fill="#22d3ee" stroke="#3c3c3c"/>
+<line x1="20" y1="108" x2="926" y2="108" stroke="#1a1a1a"/>
+
+<!-- left toolbar -->
+<rect x="20" y="108" width="36" height="490" fill="#323232"/>
+<path d="M33 126 L43 132 L38 133 L40 138 L38 139 L36 134 L33 136 Z" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><rect x="32" y="157" width="12" height="10" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 1.5"/><ellipse cx="38" cy="190" rx="6" ry="4" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M35 193 q-2 4 1 6" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M35 215 V225 H45 M31 219 H41 V229" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M32 258 L40 250 M39 247 l4 4 M41 245 l4 4" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M44 276 L37 283 M37 283 q-5 0 -5 5 q4 1 6 -3" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M32 315 l6 -8 l6 5 l-5 7 h-4 z M36 319 h8" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><rect x="24" y="330" width="28" height="24" rx="3" fill="#404040"/><text x="38" y="348" text-anchor="middle" fill="#31a8ff" font-size="16" font-family="Georgia, 'Times New Roman', serif" font-weight="700">T</text><path d="M38 365 l5 7 l-5 7 l-5 -7 z M38 365 v14" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M33 402 v-4 M36 400 v-5 M39 400 v-5 M42 401 v-3 M33 402 q0 7 5 7 q5 0 5 -7" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="37" cy="431" r="5" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M41 435 l4 4" fill="none" stroke="#8f8f8f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="27" y="460" width="14" height="14" fill="#22d3ee" stroke="#fff" stroke-width="1"/>
+<rect x="35" y="468" width="14" height="14" fill="#120e27" stroke="#fff" stroke-width="1"/>
+<line x1="56" y1="108" x2="56" y2="620" stroke="#1a1a1a"/>
+
+<!-- document tab -->
+<rect x="56" y="108" width="640" height="26" fill="#262626"/>
+<rect x="56" y="108" width="330" height="26" fill="#282828"/>
+<text x="66" y="126" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">razzan-indrana.psd @ 100% (about.js, RGB/8) *</text>
+<text x="368" y="126" fill="#8f8f8f" font-size="12" font-family="Segoe UI, Arial, sans-serif">×</text>
+
+<!-- pasteboard + document -->
+<rect x="56" y="134" width="640" height="464" fill="#282828"/>
+<rect x="84" y="158" width="584" height="416" fill="url(#checker)"/>
+<g clip-path="url(#docclip)">
+<rect x="84" y="158" width="584" height="416" fill="url(#navy)"/>
+<rect x="84" y="158" width="584" height="416" fill="url(#grid)"/>
+<text x="124" y="180" fill="#9baad2" font-size="11">// about.js  —  Hello there I’m,</text>
+<text x="124" y="210" clip-path="url(#l0)" xml:space="preserve"><tspan fill="#c792ea">const </tspan><tspan fill="#82aaff">razzan</tspan><tspan fill="#9baad2"> = {</tspan></text>
+<text x="108" y="210" text-anchor="end" fill="#6a6a6a" font-size="11">1</text>
+<text x="124" y="232" clip-path="url(#l1)" xml:space="preserve"><tspan fill="#22d3ee">  name</tspan><tspan fill="#9baad2">: </tspan><tspan fill="#31f29b">"Razzan Indrana"</tspan><tspan fill="#9baad2">,</tspan></text>
+<text x="108" y="232" text-anchor="end" fill="#6a6a6a" font-size="11">2</text>
+<text x="124" y="254" clip-path="url(#l2)" xml:space="preserve"><tspan fill="#22d3ee">  role</tspan><tspan fill="#9baad2">: </tspan><tspan fill="#31f29b">"Web Developer &amp; Designer"</tspan><tspan fill="#9baad2">,</tspan></text>
+<text x="108" y="254" text-anchor="end" fill="#6a6a6a" font-size="11">3</text>
+<text x="124" y="276" clip-path="url(#l3)" xml:space="preserve"><tspan fill="#22d3ee">  location</tspan><tspan fill="#9baad2">: </tspan><tspan fill="#31f29b">"Jakarta, Indonesia"</tspan><tspan fill="#9baad2">,</tspan></text>
+<text x="108" y="276" text-anchor="end" fill="#6a6a6a" font-size="11">4</text>
+<text x="124" y="298" clip-path="url(#l4)" xml:space="preserve"><tspan fill="#22d3ee">  education</tspan><tspan fill="#9baad2">: </tspan><tspan fill="#31f29b">"S1 Sistem Informasi, UPJ"</tspan><tspan fill="#9baad2">,</tspan></text>
+<text x="108" y="298" text-anchor="end" fill="#6a6a6a" font-size="11">5</text>
+<text x="124" y="320" clip-path="url(#l5)" xml:space="preserve"><tspan fill="#22d3ee">  stack</tspan><tspan fill="#9baad2">: [</tspan><tspan fill="#31f29b">"React"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Next.js"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Tailwind"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Supabase"</tspan><tspan fill="#9baad2">],</tspan></text>
+<text x="108" y="320" text-anchor="end" fill="#6a6a6a" font-size="11">6</text>
+<text x="124" y="342" clip-path="url(#l6)" xml:space="preserve"><tspan fill="#22d3ee">  design</tspan><tspan fill="#9baad2">: [</tspan><tspan fill="#31f29b">"Figma"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Photoshop"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Illustrator"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Canva"</tspan><tspan fill="#9baad2">],</tspan></text>
+<text x="108" y="342" text-anchor="end" fill="#6a6a6a" font-size="11">7</text>
+<text x="124" y="364" clip-path="url(#l7)" xml:space="preserve"><tspan fill="#22d3ee">  tools</tspan><tspan fill="#9baad2">: [</tspan><tspan fill="#31f29b">"VS Code"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Git"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Vercel"</tspan><tspan fill="#9baad2">, </tspan><tspan fill="#31f29b">"Odoo"</tspan><tspan fill="#9baad2">],</tspan></text>
+<text x="108" y="364" text-anchor="end" fill="#6a6a6a" font-size="11">8</text>
+<text x="124" y="386" clip-path="url(#l8)" xml:space="preserve"><tspan fill="#22d3ee">  learning</tspan><tspan fill="#9baad2">: </tspan><tspan fill="#31f29b">"Next.js"</tspan><tspan fill="#9baad2">,</tspan></text>
+<text x="108" y="386" text-anchor="end" fill="#6a6a6a" font-size="11">9</text>
+<text x="124" y="408" clip-path="url(#l9)" xml:space="preserve"><tspan fill="#22d3ee">  contact</tspan><tspan fill="#9baad2">: </tspan><tspan fill="#31f29b">"razzanindrana26@gmail.com"</tspan><tspan fill="#9baad2">,</tspan></text>
+<text x="108" y="408" text-anchor="end" fill="#6a6a6a" font-size="11">10</text>
+<text x="124" y="430" clip-path="url(#l10)" xml:space="preserve"><tspan fill="#22d3ee">  status</tspan><tspan fill="#9baad2">: </tspan><tspan fill="#31f29b">"open to work"</tspan><tspan fill="#9baad2">,</tspan></text>
+<text x="108" y="430" text-anchor="end" fill="#6a6a6a" font-size="11">11</text>
+<text x="124" y="452" clip-path="url(#l11)" xml:space="preserve"><tspan fill="#9baad2">};</tspan></text>
+<text x="108" y="452" text-anchor="end" fill="#6a6a6a" font-size="11">12</text>
+<!-- links layer, fades in after typing -->
+<g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9514;1" dur="16.473s" fill="freeze"/>
+<text x="124" y="500" fill="#9baad2" font-size="11">// links</text>
+<text x="124" y="522" font-size="13" fill="#9baad2" xml:space="preserve"><tspan fill="#22d3ee">github</tspan>  SaturnDust     <tspan fill="#22d3ee">linkedin</tspan>  razzan-indrana     <tspan fill="#22d3ee">behance</tspan>  razzanindrana</text>
+<text x="124" y="544" font-size="13" fill="#9baad2" xml:space="preserve"><tspan fill="#22d3ee">instagram</tspan>  kuwrakamu     <tspan fill="#22d3ee">portfolio</tspan>  razzan-web-porto.vercel.app</text>
+</g>
+<rect x="143.4" y="437" width="2" height="18" fill="#22d3ee"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+<!-- type-layer bounding box -->
+<rect x="118" y="187" width="539" height="274" fill="none" stroke="#31a8ff" stroke-opacity="0.55" stroke-dasharray="4 3"><animate attributeName="stroke-opacity" values="0;0;0.55" keyTimes="0;0.9870;1" dur="15.372s" fill="freeze"/></rect>
+</g>
+<!-- rulers -->
+<rect x="56" y="134" width="640" height="14" fill="#323232"/>
+<rect x="56" y="134" width="14" height="464" fill="#323232"/>
+<line x1="70" y1="142" x2="70" y2="148" stroke="#8f8f8f"/><line x1="120" y1="142" x2="120" y2="148" stroke="#8f8f8f"/><line x1="170" y1="142" x2="170" y2="148" stroke="#8f8f8f"/><line x1="220" y1="142" x2="220" y2="148" stroke="#8f8f8f"/><line x1="270" y1="142" x2="270" y2="148" stroke="#8f8f8f"/><line x1="320" y1="142" x2="320" y2="148" stroke="#8f8f8f"/><line x1="370" y1="142" x2="370" y2="148" stroke="#8f8f8f"/><line x1="420" y1="142" x2="420" y2="148" stroke="#8f8f8f"/><line x1="470" y1="142" x2="470" y2="148" stroke="#8f8f8f"/><line x1="520" y1="142" x2="520" y2="148" stroke="#8f8f8f"/><line x1="570" y1="142" x2="570" y2="148" stroke="#8f8f8f"/><line x1="620" y1="142" x2="620" y2="148" stroke="#8f8f8f"/>
+<line x1="64" y1="148" x2="70" y2="148" stroke="#8f8f8f"/><line x1="64" y1="198" x2="70" y2="198" stroke="#8f8f8f"/><line x1="64" y1="248" x2="70" y2="248" stroke="#8f8f8f"/><line x1="64" y1="298" x2="70" y2="298" stroke="#8f8f8f"/><line x1="64" y1="348" x2="70" y2="348" stroke="#8f8f8f"/><line x1="64" y1="398" x2="70" y2="398" stroke="#8f8f8f"/><line x1="64" y1="448" x2="70" y2="448" stroke="#8f8f8f"/><line x1="64" y1="498" x2="70" y2="498" stroke="#8f8f8f"/><line x1="64" y1="548" x2="70" y2="548" stroke="#8f8f8f"/>
+
+<!-- right panels -->
+<rect x="696" y="108" width="230" height="490" fill="#2b2b2b"/>
+<line x1="696" y1="108" x2="696" y2="620" stroke="#1a1a1a"/>
+<!-- Color / Swatches -->
+<rect x="696" y="108" width="230" height="24" fill="#262626"/>
+<text x="706" y="124" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">Color</text>
+<text x="752" y="124" fill="#8f8f8f" font-size="12" font-family="Segoe UI, Arial, sans-serif">Swatches</text>
+<text x="818" y="124" fill="#8f8f8f" font-size="12" font-family="Segoe UI, Arial, sans-serif">Gradients</text>
+<rect x="708" y="144" width="206" height="54" rx="3" fill="url(#navy)"/>
+<rect x="708" y="144" width="206" height="54" rx="3" fill="none" stroke="#3c3c3c"/>
+<text x="708" y="218" fill="#8f8f8f" font-size="11" font-family="Segoe UI, Arial, sans-serif">H  215°   S  65%   B  24%</text>
+<rect x="708" y="232" width="28" height="16" rx="2" fill="#22d3ee" stroke="#1a1a1a" stroke-width="1"/><rect x="742" y="232" width="28" height="16" rx="2" fill="#31f29b" stroke="#1a1a1a" stroke-width="1"/><rect x="776" y="232" width="28" height="16" rx="2" fill="#f29531" stroke="#1a1a1a" stroke-width="1"/><rect x="810" y="232" width="28" height="16" rx="2" fill="#c792ea" stroke="#1a1a1a" stroke-width="1"/><rect x="844" y="232" width="28" height="16" rx="2" fill="#82aaff" stroke="#1a1a1a" stroke-width="1"/><rect x="878" y="232" width="28" height="16" rx="2" fill="#9baad2" stroke="#1a1a1a" stroke-width="1"/><rect x="708" y="254" width="28" height="16" rx="2" fill="#120e27" stroke="#1a1a1a" stroke-width="1"/><rect x="742" y="254" width="28" height="16" rx="2" fill="#00193c" stroke="#1a1a1a" stroke-width="1"/><rect x="776" y="254" width="28" height="16" rx="2" fill="#322240" stroke="#1a1a1a" stroke-width="1"/><rect x="810" y="254" width="28" height="16" rx="2" fill="#040a1c" stroke="#1a1a1a" stroke-width="1"/><rect x="844" y="254" width="28" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1"/><rect x="878" y="254" width="28" height="16" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="1"/>
+<!-- Layers -->
+<rect x="696" y="304" width="230" height="24" fill="#262626"/>
+<text x="706" y="320" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">Layers</text>
+<text x="760" y="320" fill="#8f8f8f" font-size="12" font-family="Segoe UI, Arial, sans-serif">Channels</text>
+<text x="824" y="320" fill="#8f8f8f" font-size="12" font-family="Segoe UI, Arial, sans-serif">Paths</text>
+<rect x="704" y="334" width="90" height="18" rx="3" fill="#262626" stroke="#3c3c3c"/><text x="710" y="347" fill="#d6d6d6" font-size="11" font-family="Segoe UI, Arial, sans-serif">Normal</text>
+<text x="804" y="347" fill="#8f8f8f" font-size="11" font-family="Segoe UI, Arial, sans-serif">Opacity:</text>
+<rect x="854" y="334" width="60" height="18" rx="3" fill="#262626" stroke="#3c3c3c"/><text x="860" y="347" fill="#d6d6d6" font-size="11" font-family="Segoe UI, Arial, sans-serif">100%</text>
+<rect x="697" y="360" width="228" height="26" fill="#404040"/>
+<rect x="704" y="366" width="14" height="14" rx="2" fill="none" stroke="#8f8f8f" stroke-width="1"/><circle cx="711" cy="373" r="3" fill="#d6d6d6"/>
+<rect x="726" y="364" width="18" height="18" rx="2" fill="#ffffff"/>
+<text x="735" y="377" text-anchor="middle" fill="#000" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">T</text>
+<text x="752" y="377" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">about.js</text>
+<rect x="697" y="386" width="228" height="26" fill="none"/>
+<rect x="704" y="392" width="14" height="14" rx="2" fill="none" stroke="#8f8f8f" stroke-width="1"/><circle cx="711" cy="399" r="3" fill="#d6d6d6"/>
+<rect x="726" y="390" width="18" height="18" rx="2" fill="#ffffff"/>
+<text x="735" y="403" text-anchor="middle" fill="#000" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">T</text>
+<text x="752" y="403" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">skills</text>
+<rect x="697" y="412" width="228" height="26" fill="none"/>
+<rect x="704" y="418" width="14" height="14" rx="2" fill="none" stroke="#8f8f8f" stroke-width="1"/><circle cx="711" cy="425" r="3" fill="#d6d6d6"/>
+<rect x="726" y="416" width="18" height="18" rx="2" fill="#00193c"/>
+<text x="735" y="429" text-anchor="middle" fill="#22d3ee" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">▣</text>
+<text x="752" y="429" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">projects</text>
+<rect x="697" y="438" width="228" height="26" fill="none"/>
+<rect x="704" y="444" width="14" height="14" rx="2" fill="none" stroke="#8f8f8f" stroke-width="1"/><circle cx="711" cy="451" r="3" fill="#d6d6d6"/>
+<rect x="726" y="442" width="18" height="18" rx="2" fill="#00193c"/>
+<text x="735" y="455" text-anchor="middle" fill="#22d3ee" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">▦</text>
+<text x="752" y="455" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">grid-pattern</text>
+<rect x="697" y="464" width="228" height="26" fill="none"/>
+<rect x="704" y="470" width="14" height="14" rx="2" fill="none" stroke="#8f8f8f" stroke-width="1"/><circle cx="711" cy="477" r="3" fill="#d6d6d6"/>
+<rect x="726" y="468" width="18" height="18" rx="2" fill="#00193c"/>
+<text x="735" y="481" text-anchor="middle" fill="#22d3ee" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">▩</text>
+<text x="752" y="481" fill="#d6d6d6" font-size="12" font-family="Segoe UI, Arial, sans-serif">Background</text>
+<rect x="904" y="475" width="9" height="7" rx="1" fill="#8f8f8f"/><path d="M906 475 v-2.5 a2.5 2.5 0 0 1 5 0 v2.5" fill="none" stroke="#8f8f8f" stroke-width="1.2"/>
+
+<!-- status bar -->
+<rect x="20" y="598" width="906" height="22" fill="#262626"/>
+<text x="32" y="613" fill="#8f8f8f" font-size="11" font-family="Segoe UI, Arial, sans-serif">100%</text>
+<text x="90" y="613" fill="#8f8f8f" font-size="11" font-family="Segoe UI, Arial, sans-serif">Doc: 1.20M/1.20M</text>
+<text x="912" y="613" text-anchor="end" fill="#8f8f8f" font-size="11" font-family="Segoe UI, Arial, sans-serif">Type tool  ·  Jakarta (UTC+7)  ·  github.com/SaturnDust</text>
+</g>
+</svg>
